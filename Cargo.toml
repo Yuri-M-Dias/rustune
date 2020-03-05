@@ -1,0 +1,8 @@
+# Fortune rewritten in Rust
+[package]
+name = "rustune"
+version = "0.1.0"
+authors = ["Yuri-M-Dias <yurimathe.yp at gmail dot com>"]
+edition = "2018"
+
+[dependencies]
